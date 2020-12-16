@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="445.0" prefWidth="445.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Button fx:id="btn1" layoutX="8.0" layoutY="14.0" mnemonicParsing="false" onAction="#btn1_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn2" layoutX="119.0" layoutY="14.0" mnemonicParsing="false" onAction="#btn2_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn3" layoutX="228.0" layoutY="14.0" mnemonicParsing="false" onAction="#btn3_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn4" layoutX="336.0" layoutY="14.0" mnemonicParsing="false" onAction="#btn4_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn5" layoutX="8.0" layoutY="123.0" mnemonicParsing="false" onAction="#btn5_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn6" layoutX="119.0" layoutY="123.0" mnemonicParsing="false" onAction="#btn6_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn7" layoutX="228.0" layoutY="123.0" mnemonicParsing="false" onAction="#btn7_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn8" layoutX="336.0" layoutY="123.0" mnemonicParsing="false" onAction="#btn8_click" prefHeight="100.0" prefWidth="99.0" text="X">
+         <font>
+            <Font size="43.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
